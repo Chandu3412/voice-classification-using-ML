@@ -21,5 +21,5 @@ Testing the Model: Measuring how good our model is doing.
  ![](Snapshots/result.png)
  other datasets such as Emo-DB and TESS and tweak the model (or use another one) if you wish to get better performance
 
- | Team : ISAAC | JAHNAVI | IRFAN | HEMANTH |
+ | Team : CHANDU S P| USHA RANI | AYUSHI YADAV |DEEKSHA N |
 
